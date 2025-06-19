@@ -46,6 +46,11 @@ TBD
 | ESP32 | Test | Wifi, Bluetooth, Wired GPIO Pins | Test | 
 
 
-## Frontend / Analysis Softwares 
+## Frontend / Analysis Software
+
+## Solar Setups 
+### Determine power requirements
+
+### Solar Controllers 
 
 ## Sources 
